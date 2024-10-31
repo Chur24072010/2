@@ -12,7 +12,7 @@ class Pet:
 
    def grow(self):
 
-       self.age +=
+       self.age += 4
 
 cat = Pet("Пушок", "кошка")
 
